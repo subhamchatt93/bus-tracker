@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Google Maps V2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="secondpage">title_second_page</string>
+    <string name="busstops_prompt">busstops_prompt</string>
+    <string name="routenum_prompt">routenum_prompt</string>
+    <string name="title_activity_homepage">title_activity_homepage</string>
+    <string-array name="routenum_arrays">
+        <item></item>
+        <item>201M</item>
+        <item>410</item>
+        <item>410A</item>
+        <item>410B</item>
+        <item>V600K</item>
+        <item>V500K</item>
+    </string-array>
+    <string-array name="busstops_arrays">
+        <item></item>
+        <item>BTM Layout</item>
+        <item>Banashankari</item>
+        <item>Devegowda Petrol Bunk</item>
+        <item>Katriguppe Janata Bazaar</item>
+        <item>PES Institute of Technology</item>
+        <item>Vijayanagar</item>
+    </string-array>
+
+</resources>
